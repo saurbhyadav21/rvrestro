@@ -96,19 +96,21 @@ include('header.php')
                                                     <div class="elementor-widget-container">
                                                         <div class="elementor-image-carousel-wrapper swiper" role="region" aria-roledescription="carousel" aria-label="Image Carousel" dir="ltr">
                                                             <div class="elementor-image-carousel swiper-wrapper" aria-live="off">
-                                                                <div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="1 of 4">
-                                                                    <figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://ambrosiapalace.com/wp-content/uploads/2024/07/01-2.jpg" alt="WEDDING FUNCTIONS" />
-                                                                        <figcaption class="elementor-image-carousel-caption">WEDDING FUNCTIONS</figcaption>
-                                                                    </figure>
-                                                                </div>
+                                                                
                                                                 <div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="2 of 4">
                                                                     <figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://ambrosiapalace.com/wp-content/uploads/2024/07/04-1.jpg" alt="ANNIVERSARY PARTY" />
                                                                         <figcaption class="elementor-image-carousel-caption">ANNIVERSARY PARTY</figcaption>
                                                                     </figure>
                                                                 </div>
+                                                                
                                                                 <div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="3 of 4">
                                                                     <figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://ambrosiapalace.com/wp-content/uploads/2024/07/02-2.jpg" alt="BIRTHDAY PARTY" />
                                                                         <figcaption class="elementor-image-carousel-caption">BIRTHDAY PARTY</figcaption>
+                                                                    </figure>
+                                                                </div>
+                                                                <div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="1 of 4">
+                                                                    <figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://ambrosiapalace.com/wp-content/uploads/2024/07/01-2.jpg" alt="WEDDING FUNCTIONS" />
+                                                                        <figcaption class="elementor-image-carousel-caption">WEDDING FUNCTIONS</figcaption>
                                                                     </figure>
                                                                 </div>
                                                                 <div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="4 of 4">
@@ -140,6 +142,15 @@ include('header.php')
                                                 <section class="elementor-section elementor-inner-section elementor-element elementor-element-be63af0 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="be63af0" data-element_type="section">
 
                                                     <div class="elementor-container elementor-column-gap-default">
+                                                         <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-eaed13f" data-id="eaed13f" data-element_type="column">
+                                                                <div class="elementor-widget-wrap elementor-element-populated">
+                                                                    <div class="elementor-element elementor-element-458ba73 elementor-widget elementor-widget-image" data-id="458ba73" data-element_type="widget" data-widget_type="image.default">
+                                                                        <div class="elementor-widget-container">
+                                                                            <img loading="lazy" decoding="async" width="400" height="400" src="https://ambrosiapalace.com/wp-content/uploads/2023/09/absection.png" class="attachment-full size-full wp-image-91" alt="" srcset="https://ambrosiapalace.com/wp-content/uploads/2023/09/absection.png 400w, https://ambrosiapalace.com/wp-content/uploads/2023/09/absection-367x367.png 367w" sizes="(max-width: 400px) 100vw, 400px" />
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
                                                         <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-e2b2c95" data-id="e2b2c95" data-element_type="column">
                                                             <div class="elementor-widget-wrap elementor-element-populated">
                                                                 <div class="elementor-element elementor-element-bc94301 elementor-widget elementor-widget-heading" data-id="bc94301" data-element_type="widget" data-widget_type="heading.default">
@@ -160,12 +171,12 @@ include('header.php')
                                                                 </div>
                                                                 <div class="elementor-element elementor-element-14c8f00 elementor-widget elementor-widget-heading" data-id="14c8f00" data-element_type="widget" data-widget_type="heading.default">
                                                                     <div class="elementor-widget-container">
-                                                                        <h2 class="elementor-heading-title elementor-size-default">Ambrosia Palace (Pooja Banquet LLP)</h2>
+                                                                        <h2 class="elementor-heading-title elementor-size-default">Rv Restro </h2>
                                                                     </div>
                                                                 </div>
                                                                 <div class="elementor-element elementor-element-99139f8 elementor-widget elementor-widget-text-editor" data-id="99139f8" data-element_type="widget" data-widget_type="text-editor.default">
                                                                     <div class="elementor-widget-container">
-                                                                        Ambrosia Palace The Banquet Hall is one of the most impressive wedding venue facilities in the city. This exuberant wedding venue has a kind of ambiance which will definitely steal your heart and intrigue you with its interiors and exteriors. This is an incredibly tastefully designed wedding venue destination for organizing your wedding ceremonies. This stunning wedding venue would ensure that your wedding celebrations would be the talk of the town.</p>
+                                                                        Rv Restro The Banquet Hall is one of the most impressive wedding venue facilities in the city. This exuberant wedding venue has a kind of ambiance which will definitely steal your heart and intrigue you with its interiors and exteriors. This is an incredibly tastefully designed wedding venue destination for organizing your wedding ceremonies. This stunning wedding venue would ensure that your wedding celebrations would be the talk of the town.</p>
 
                                                                         &#8220;The very First Duplex, Royal, Elegant Banquet Hall opens up as your perfect destination for all kinds of parties and weddings&#8221; </div>
                                                                 </div>
@@ -184,15 +195,7 @@ include('header.php')
                                                                 </div>
                                                             </div>
                                                         </div>
-                                                        <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-eaed13f" data-id="eaed13f" data-element_type="column">
-                                                            <div class="elementor-widget-wrap elementor-element-populated">
-                                                                <div class="elementor-element elementor-element-458ba73 elementor-widget elementor-widget-image" data-id="458ba73" data-element_type="widget" data-widget_type="image.default">
-                                                                    <div class="elementor-widget-container">
-                                                                        <img loading="lazy" decoding="async" width="400" height="400" src="https://ambrosiapalace.com/wp-content/uploads/2023/09/absection.png" class="attachment-full size-full wp-image-91" alt="" srcset="https://ambrosiapalace.com/wp-content/uploads/2023/09/absection.png 400w, https://ambrosiapalace.com/wp-content/uploads/2023/09/absection-367x367.png 367w" sizes="(max-width: 400px) 100vw, 400px" />
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
+                                                           
                                                     </div>
                                                 </section>
                                             </div>
@@ -207,6 +210,22 @@ include('header.php')
                                                 <section class="elementor-section elementor-inner-section elementor-element elementor-element-4207ebc elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4207ebc" data-element_type="section">
 
                                                     <div class="elementor-container elementor-column-gap-default">
+                                                         <div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-8550867" data-id="8550867" data-element_type="column">
+                                                            <div class="elementor-widget-wrap elementor-element-populated">
+                                                                <div class="elementor-element elementor-element-0ccd133 elementor-widget elementor-widget-counter" data-id="0ccd133" data-element_type="widget" data-widget_type="counter.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div class="elementor-counter">
+                                                                            <div class="elementor-counter-title">STAFF MEMBERS</div>
+                                                                            <div class="elementor-counter-number-wrapper">
+                                                                                <span class="elementor-counter-number-prefix"></span>
+                                                                                <span class="elementor-counter-number" data-duration="2000" data-to-value="50" data-from-value="0" data-delimiter=",">0</span>
+                                                                                <span class="elementor-counter-number-suffix">+</span>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
                                                         <div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-d403ccf" data-id="d403ccf" data-element_type="column">
                                                             <div class="elementor-widget-wrap elementor-element-populated">
                                                                 <div class="elementor-element elementor-element-ca19d65 elementor-widget elementor-widget-counter" data-id="ca19d65" data-element_type="widget" data-widget_type="counter.default">
@@ -223,22 +242,7 @@ include('header.php')
                                                                 </div>
                                                             </div>
                                                         </div>
-                                                        <div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-8550867" data-id="8550867" data-element_type="column">
-                                                            <div class="elementor-widget-wrap elementor-element-populated">
-                                                                <div class="elementor-element elementor-element-0ccd133 elementor-widget elementor-widget-counter" data-id="0ccd133" data-element_type="widget" data-widget_type="counter.default">
-                                                                    <div class="elementor-widget-container">
-                                                                        <div class="elementor-counter">
-                                                                            <div class="elementor-counter-title">STAFF MEMBERS</div>
-                                                                            <div class="elementor-counter-number-wrapper">
-                                                                                <span class="elementor-counter-number-prefix"></span>
-                                                                                <span class="elementor-counter-number" data-duration="2000" data-to-value="50" data-from-value="0" data-delimiter=",">0</span>
-                                                                                <span class="elementor-counter-number-suffix">+</span>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
+                                                       
                                                         <div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-d033238" data-id="d033238" data-element_type="column">
                                                             <div class="elementor-widget-wrap elementor-element-populated">
                                                                 <div class="elementor-element elementor-element-22e233a elementor-widget elementor-widget-counter" data-id="22e233a" data-element_type="widget" data-widget_type="counter.default">
@@ -314,7 +318,7 @@ include('header.php')
 
                                                                             <div class="elementor-icon-box-icon">
                                                                                 <span class="elementor-icon elementor-animation-">
-                                                                                    <i aria-hidden="true" class="fas fa-warehouse"></i> </span>
+                                                                                    <i aria-hidden="true" class="fa-solid fa-house"></i> </span>
                                                                             </div>
 
                                                                             <div class="elementor-icon-box-content">
@@ -342,7 +346,7 @@ include('header.php')
 
                                                                             <div class="elementor-icon-box-icon">
                                                                                 <span class="elementor-icon elementor-animation-">
-                                                                                    <i aria-hidden="true" class="fab fa-pagelines"></i> </span>
+                                                                                    <i aria-hidden="true" class="fa-solid fa-leaf"></i> </span>
                                                                             </div>
 
                                                                             <div class="elementor-icon-box-content">
@@ -370,9 +374,8 @@ include('header.php')
 
                                                                             <div class="elementor-icon-box-icon">
                                                                                 <span class="elementor-icon elementor-animation-">
-                                                                                    <i aria-hidden="true" class="fas fa-car"></i> </span>
+                                                                                    <i aria-hidden="true" class="fa-solid fa-car-rear"></i> </span>
                                                                             </div>
-
                                                                             <div class="elementor-icon-box-content">
 
                                                                                 <h3 class="elementor-icon-box-title">
@@ -403,7 +406,7 @@ include('header.php')
 
                                                                             <div class="elementor-icon-box-icon">
                                                                                 <span class="elementor-icon elementor-animation-">
-                                                                                    <i aria-hidden="true" class="fas fa-concierge-bell"></i> </span>
+                                                                                    <i aria-hidden="true" class="fa-solid fa-utensils"></i> </span>
                                                                             </div>
 
                                                                             <div class="elementor-icon-box-content">
@@ -431,7 +434,7 @@ include('header.php')
 
                                                                             <div class="elementor-icon-box-icon">
                                                                                 <span class="elementor-icon elementor-animation-">
-                                                                                    <i aria-hidden="true" class="fas fa-user-tie"></i> </span>
+                                                                                    <i aria-hidden="true" class="fa-solid fa-user"></i> </span>
                                                                             </div>
 
                                                                             <div class="elementor-icon-box-content">
@@ -459,7 +462,7 @@ include('header.php')
 
                                                                             <div class="elementor-icon-box-icon">
                                                                                 <span class="elementor-icon elementor-animation-">
-                                                                                    <i aria-hidden="true" class="fas fa-users-cog"></i> </span>
+                                                                                    <i aria-hidden="true" class="fa-solid fa-users"></i> </span>
                                                                             </div>
 
                                                                             <div class="elementor-icon-box-content">
@@ -555,38 +558,6 @@ include('header.php')
                                                 <section class="elementor-section elementor-inner-section elementor-element elementor-element-ba418fb elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="ba418fb" data-element_type="section">
 
                                                     <div class="elementor-container elementor-column-gap-default">
-                                                        <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-0c56591" data-id="0c56591" data-element_type="column">
-                                                            <div class="elementor-widget-wrap elementor-element-populated">
-                                                                <div class="elementor-element elementor-element-c209e0f elementor-flip-box--effect-fade elementor-widget elementor-widget-flip-box" data-id="c209e0f" data-element_type="widget" data-widget_type="flip-box.default">
-                                                                    <div class="elementor-widget-container">
-                                                                        <div class="elementor-flip-box" tabindex="0">
-                                                                            <div class="elementor-flip-box__layer elementor-flip-box__front">
-                                                                                <div class="elementor-flip-box__layer__overlay">
-                                                                                    <div class="elementor-flip-box__layer__inner">
-
-                                                                                        <h3 class="elementor-flip-box__layer__title">
-                                                                                            Luxury Gourmet Experience </h3>
-
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                            <div class="elementor-flip-box__layer elementor-flip-box__back">
-                                                                                <div class="elementor-flip-box__layer__overlay">
-                                                                                    <div class="elementor-flip-box__layer__inner">
-                                                                                        <h3 class="elementor-flip-box__layer__title">
-                                                                                            Luxury Gourmet Experience </h3>
-
-                                                                                        <div class="elementor-flip-box__layer__description">
-                                                                                            Make your event special with a luxury gourmet experience with delectable cuisines at Ambrosia Palace. We promise to deliver Fresh and Hygienic food to your guests and make sure that they don’t leave disappointed! </div>
-
-                                                                                    </div>
-                                                                                </div>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
                                                         <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-f6b80ba" data-id="f6b80ba" data-element_type="column">
                                                             <div class="elementor-widget-wrap elementor-element-populated">
                                                                 <div class="elementor-element elementor-element-f5cf9d9 elementor-flip-box--effect-fade elementor-widget elementor-widget-flip-box" data-id="f5cf9d9" data-element_type="widget" data-widget_type="flip-box.default">
@@ -642,6 +613,38 @@ include('header.php')
 
                                                                                         <div class="elementor-flip-box__layer__description">
                                                                                             We ensure the best DJ and live entertainment experience as per your big day’s aesthetic and vibe. </div>
+
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                                  <div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-0c56591" data-id="0c56591" data-element_type="column">
+                                                            <div class="elementor-widget-wrap elementor-element-populated">
+                                                                <div class="elementor-element elementor-element-c209e0f elementor-flip-box--effect-fade elementor-widget elementor-widget-flip-box" data-id="c209e0f" data-element_type="widget" data-widget_type="flip-box.default">
+                                                                    <div class="elementor-widget-container">
+                                                                        <div class="elementor-flip-box" tabindex="0">
+                                                                            <div class="elementor-flip-box__layer elementor-flip-box__front">
+                                                                                <div class="elementor-flip-box__layer__overlay">
+                                                                                    <div class="elementor-flip-box__layer__inner">
+
+                                                                                        <h3 class="elementor-flip-box__layer__title">
+                                                                                            Luxury Gourmet Experience </h3>
+
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                            <div class="elementor-flip-box__layer elementor-flip-box__back">
+                                                                                <div class="elementor-flip-box__layer__overlay">
+                                                                                    <div class="elementor-flip-box__layer__inner">
+                                                                                        <h3 class="elementor-flip-box__layer__title">
+                                                                                            Luxury Gourmet Experience </h3>
+
+                                                                                        <div class="elementor-flip-box__layer__description">
+                                                                                            Make your event special with a luxury gourmet experience with delectable cuisines at Ambrosia Palace. We promise to deliver Fresh and Hygienic food to your guests and make sure that they don’t leave disappointed! </div>
 
                                                                                     </div>
                                                                                 </div>

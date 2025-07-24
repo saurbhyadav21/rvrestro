@@ -18,13 +18,6 @@
 				<link rel="apple-touch-icon" sizes="120x120" href="" />
 				<link rel="apple-touch-icon" sizes="76x76" href="" />
 				<link rel="apple-touch-icon" sizes="152x152" href="" />
-			<meta name="twitter:card" content="summary_large_image">
-	<meta property="twitter:title" content="Home"/>
-	<meta property="og:title" content="Home"/>
-	<meta property="og:type" content="website"/>
-	<meta property="og:url" content="https://ambrosiapalace.com/"/>
-	<meta property="og:site_name" content="Banquet Hall"/>
-	<meta property="og:description" content="Occasion Our Services WEDDING FUNCTIONSANNIVERSARY PARTYBIRTHDAY PARTYCORPORATE FUNCTIONS Who We Are Ambrosia Palace (Pooja Banquet LLP) Ambrosia Palace The Banquet Hall is one of the most impressive wedding venue facilities in the city. This exuberant wedding venue has a kind of ambiance which will definitely&hellip;"/>
 
 	<script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>				
 	<meta property="og:image" content="http://ambrosiapalace.com/wp-content/uploads/2023/09/ambrosia.png"/>
@@ -107,10 +100,12 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16
 
 				<div class="header-main header-has-center header-has-not-center-sm">
 					<div class="header-row container">
-						<div class="header-col header-left">
-							<div class="logo">
+						<div class="header-col header-left p-0">
+							<div class="logo p-0">
 								<a href="https://ambrosiapalace.com/" title="Banquet Hall - " rel="home">
-									<img class="img-responsive sticky-logo sticky-retina-logo" src="//ambrosiapalace.com/wp-content/uploads/2023/09/ambrosia.png" alt="Banquet Hall" /><img class="img-responsive standard-logo retina-logo" width="381" height="106" src="//ambrosiapalace.com/wp-content/uploads/2023/09/ambrosia.png" alt="Banquet Hall" /> </a>
+									<img class="img-responsive sticky-logo sticky-retina-logo" src="./images/logo.jpg" width="60%" alt="Banquet Hall" />
+									<img class="img-responsive standard-logo retina-logo" width="50%" height="106" src="./images/logo.jpg" alt="Banquet Hall" /> 
+								</a>
 							</div>
 						</div>
 						<div class="header-col header-center hidden-for-sm">
