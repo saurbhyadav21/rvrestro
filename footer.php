@@ -65,7 +65,7 @@
                                 <ul class="contact-details">
                                     <li><i class="far fa-dot-circle"></i> <strong>Address :</strong> <span>Plot Number 3, Sector 3, Vaishali, Ghaziabad - 201001 (Opposite Cloud 9 Towers)</span></li>
                                     <li><i class="fab fa-whatsapp"></i> <strong>Phone:</strong> <span> +91- 9667790783, 96677 90782, 96677 90781</span></li>
-                                    <li><i class="far fa-envelope"></i> <strong>Email:</strong> <span><a href="mailto:ambrosiapalacevaishali@gmail.com">ambrosiapalacevaishali@gmail.com</a></span></li>
+                                    <li><i class="far fa-envelope"></i> <strong>Email:</strong> <span><a href="mailto:RvRestro@gmail.com">RvRestro@gmail.com</a></span></li>
                                 </ul>
                             </div>
 

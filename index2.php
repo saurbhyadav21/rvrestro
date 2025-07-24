@@ -580,7 +580,7 @@ include('header.php')
                                                                                             Custom Decor </h3>
 
                                                                                         <div class="elementor-flip-box__layer__description">
-                                                                                            We specialize in thematic and personalized event decor that appeals to the senses and creates an incredible and memorable event atmosphere. Beautifully adorned with chandeliers and themed decor, Ambrosia Place Hospitality Group is surely going to take your breath away. </div>
+                                                                                            We specialize in thematic and personalized event decor that appeals to the senses and creates an incredible and memorable event atmosphere. Beautifully adorned with chandeliers and themed decor, Rv Restro Hospitality Group is surely going to take your breath away. </div>
 
                                                                                     </div>
                                                                                 </div>
@@ -644,7 +644,7 @@ include('header.php')
                                                                                             Luxury Gourmet Experience </h3>
 
                                                                                         <div class="elementor-flip-box__layer__description">
-                                                                                            Make your event special with a luxury gourmet experience with delectable cuisines at Ambrosia Palace. We promise to deliver Fresh and Hygienic food to your guests and make sure that they don’t leave disappointed! </div>
+                                                                                            Make your event special with a luxury gourmet experience with delectable cuisines at Rv Restro. We promise to deliver Fresh and Hygienic food to your guests and make sure that they don’t leave disappointed! </div>
 
                                                                                     </div>
                                                                                 </div>
