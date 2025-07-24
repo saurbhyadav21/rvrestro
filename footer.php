@@ -187,9 +187,9 @@
         }
     }
 </script>
-<link rel="preload" as="font" id="rs-icon-set-revicon-woff" href="//ambrosiapalace.com/wp-content/plugins/revslider/sr6/assets/fonts/revicons/revicons.woff?5510888" type="font/woff" crossorigin="anonymous" media="all" />
-<link rel='stylesheet' id='flatpickr-css' href='https://ambrosiapalace.com/wp-content/plugins/elementor/assets/lib/flatpickr/flatpickr.min.css?ver=4.6.13' media='all' />
-<link rel='stylesheet' id='rs-plugin-settings-css' href='//ambrosiapalace.com/wp-content/plugins/revslider/sr6/assets/css/rs6.css?ver=6.7.15' media='all' />
+<link rel="preload" as="font" id="rs-icon-set-revicon-woff" href="fonts/revicons.woff" type="font/woff" crossorigin="anonymous" media="all" />
+<link rel='stylesheet' id='flatpickr-css' href='css/flatpickr.min.css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css' href='css/rs6.css' media='all' />
 <style id='rs-plugin-settings-inline-css'>
     #rev_slider_1_1_wrapper .hesperiden.tparrows {
         cursor: pointer;

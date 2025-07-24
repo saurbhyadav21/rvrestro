@@ -26,7 +26,8 @@
 	<meta property="og:site_name" content="Banquet Hall"/>
 	<meta property="og:description" content="Occasion Our Services WEDDING FUNCTIONSANNIVERSARY PARTYBIRTHDAY PARTYCORPORATE FUNCTIONS Who We Are Ambrosia Palace (Pooja Banquet LLP) Ambrosia Palace The Banquet Hall is one of the most impressive wedding venue facilities in the city. This exuberant wedding venue has a kind of ambiance which will definitely&hellip;"/>
 
-						<meta property="og:image" content="http://ambrosiapalace.com/wp-content/uploads/2023/09/ambrosia.png"/>
+	<script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>				
+	<meta property="og:image" content="http://ambrosiapalace.com/wp-content/uploads/2023/09/ambrosia.png"/>
 				<script>
 window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/ambrosiapalace.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.8.2"}};
 /*! This file is auto-generated */
@@ -36,33 +37,34 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16
 
 
 	
-	<link rel='stylesheet' id='joinchat-css' href='https://ambrosiapalace.com/wp-content/plugins/creame-whatsapp-me/public/css/joinchat.min.css?ver=5.1.8' media='all' />
-	<link rel='stylesheet' id='elementor-icons-css' href='https://ambrosiapalace.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.34.0' media='all' />
-	<link rel='stylesheet' id='elementor-frontend-css' href='https://ambrosiapalace.com/wp-content/uploads/elementor/css/custom-frontend.min.css?ver=1752602883' media='all' />
-	<link rel='stylesheet' id='elementor-post-6-css' href='https://ambrosiapalace.com/wp-content/uploads/elementor/css/post-6.css?ver=1752602884' media='all' />
-	<link rel='stylesheet' id='elementor-pro-css' href='https://ambrosiapalace.com/wp-content/uploads/elementor/css/custom-pro-frontend.min.css?ver=1752602884' media='all' />
-	<link rel='stylesheet' id='widget-heading-css' href='https://ambrosiapalace.com/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=3.26.0' media='all' />
-	<link rel='stylesheet' id='widget-divider-css' href='https://ambrosiapalace.com/wp-content/plugins/elementor/assets/css/widget-divider.min.css?ver=3.26.0' media='all' />
-	<link rel='stylesheet' id='swiper-css' href='https://ambrosiapalace.com/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5' media='all' />
-	<link rel='stylesheet' id='e-swiper-css' href='https://ambrosiapalace.com/wp-content/plugins/elementor/assets/css/conditionals/e-swiper.min.css?ver=3.26.0' media='all' />
-	<link rel='stylesheet' id='widget-image-carousel-css' href='https://ambrosiapalace.com/wp-content/plugins/elementor/assets/css/widget-image-carousel.min.css?ver=3.26.0' media='all' />
-	<link rel='stylesheet' id='widget-text-editor-css' href='https://ambrosiapalace.com/wp-content/plugins/elementor/assets/css/widget-text-editor.min.css?ver=3.26.0' media='all' />
-	<link rel='stylesheet' id='widget-image-css' href='https://ambrosiapalace.com/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=3.26.0' media='all' />
-	<link rel='stylesheet' id='widget-counter-css' href='https://ambrosiapalace.com/wp-content/plugins/elementor/assets/css/widget-counter.min.css?ver=3.26.0' media='all' />
-	<link rel='stylesheet' id='widget-icon-box-css' href='https://ambrosiapalace.com/wp-content/uploads/elementor/css/custom-widget-icon-box.min.css?ver=1752602883' media='all' />
-	<link rel='stylesheet' id='elementor-gallery-css' href='https://ambrosiapalace.com/wp-content/plugins/elementor/assets/lib/e-gallery/css/e-gallery.min.css?ver=1.2.0' media='all' />
-	<link rel='stylesheet' id='porto-css-vars-css' href='http://ambrosiapalace.com/wp-content/uploads/porto_styles/theme_css_vars.css?ver=7.1.11' media='all' />
-	<link rel='stylesheet' id='bootstrap-css' href='http://ambrosiapalace.com/wp-content/uploads/porto_styles/bootstrap.css?ver=7.1.11' media='all' />
-	<link rel='stylesheet' id='porto-plugins-css' href='https://ambrosiapalace.com/wp-content/themes/porto/css/plugins.css?ver=7.1.11' media='all' />
-	<link rel='stylesheet' id='porto-theme-css' href='https://ambrosiapalace.com/wp-content/themes/porto/css/theme.css?ver=7.1.11' media='all' />
-	<link rel='stylesheet' id='porto-theme-portfolio-css' href='https://ambrosiapalace.com/wp-content/themes/porto/css/theme_portfolio.css?ver=7.1.11' media='all' />
-	<link rel='stylesheet' id='porto-theme-member-css' href='https://ambrosiapalace.com/wp-content/themes/porto/css/theme_member.css?ver=7.1.11' media='all' />
-	<link rel='stylesheet' id='porto-shortcodes-css' href='http://ambrosiapalace.com/wp-content/uploads/porto_styles/shortcodes.css?ver=7.1.11' media='all' />
-	<link rel='stylesheet' id='porto-theme-elementor-css' href='https://ambrosiapalace.com/wp-content/themes/porto/css/theme_elementor.css?ver=7.1.11' media='all' />
-	<link rel='stylesheet' id='porto-dynamic-style-css' href='http://ambrosiapalace.com/wp-content/uploads/porto_styles/dynamic_style.css?ver=7.1.11' media='all' />
-	<link rel='stylesheet' id='porto-type-builder-css' href='https://ambrosiapalace.com/wp-content/plugins/porto-functionality/builders/assets/type-builder.css?ver=3.1.11' media='all' />
-	<link rel='stylesheet' id='elementor-post-7-css' href='https://ambrosiapalace.com/wp-content/uploads/elementor/css/post-7.css?ver=1752602885' media='all' />
-	<link rel='stylesheet' id='porto-style-css' href='https://ambrosiapalace.com/wp-content/themes/porto/style.css?ver=7.1.11' media='all' />
+	<link rel='stylesheet' id='joinchat-css' href='css/joinchat.min.css' media='all' />
+	<!-- <link rel='stylesheet' id='elementor-icons-css' href='fonts/eicons.woff2' media='all' /> -->
+	<!-- <link rel='stylesheet' id='elementor-icons-css' href='https://ambrosiapalace.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.34.0' media='all' /> -->
+	<link rel='stylesheet' id='elementor-frontend-css' href='css/custom-frontend.min.css' media='all' />
+	<link rel='stylesheet' id='elementor-post-6-css' href='css/post-6.css' media='all' />
+	<link rel='stylesheet' id='elementor-pro-css' href='css/custom-pro-frontend.min.css' media='all' />
+	<link rel='stylesheet' id='widget-heading-css' href='css/widget-heading.min.css' media='all' />
+	<link rel='stylesheet' id='widget-divider-css' href='css/widget-divider.min.css' media='all' />
+	<link rel='stylesheet' id='swiper-css' href='css/swiper.min.css' media='all' />
+	<link rel='stylesheet' id='e-swiper-css' href='css/e-swiper.min.css' media='all' />
+	<link rel='stylesheet' id='widget-image-carousel-css' href='css/widget-image-carousel.min.css' media='all' />
+	<link rel='stylesheet' id='widget-text-editor-css' href='css/widget-text-editor.min.css' media='all' />
+	<link rel='stylesheet' id='widget-image-css' href='css/widget-image.min.css' media='all' />
+	<link rel='stylesheet' id='widget-counter-css' href='css/widget-counter.min.css' media='all' />
+	<link rel='stylesheet' id='widget-icon-box-css' href='css/custom-widget-icon-box.min.css' media='all' />
+	<link rel='stylesheet' id='elementor-gallery-css' href='css/e-gallery.min.css' media='all' />
+	<link rel='stylesheet' id='porto-css-vars-css' href='css/theme_css_vars.css' media='all' />
+	<link rel='stylesheet' id='bootstrap-css' href='css/bootstrap.css' media='all' />
+	<link rel='stylesheet' id='porto-plugins-css' href='css/plugins.css' media='all' />
+	<link rel='stylesheet' id='porto-theme-css' href='css/theme.css' media='all' />
+	<link rel='stylesheet' id='porto-theme-portfolio-css' href='css/theme_portfolio.css' media='all' />
+	<link rel='stylesheet' id='porto-theme-member-css' href='css/theme_member.css' media='all' />
+	<link rel='stylesheet' id='porto-shortcodes-css' href='css/shortcodes.css' media='all' />
+	<link rel='stylesheet' id='porto-theme-elementor-css' href='css/theme_elementor.css' media='all' />
+	<link rel='stylesheet' id='porto-dynamic-style-css' href='css/dynamic_style.css' media='all' />
+	<link rel='stylesheet' id='porto-type-builder-css' href='css/type-builder.css' media='all' />
+	<link rel='stylesheet' id='elementor-post-7-css' href='css/post-7.css' media='all' />
+	<link rel='stylesheet' id='porto-style-css' href='css/style.css' media='all' />
 	<style id='wp-emoji-styles-inline-css'>
 
 	img.wp-smiley, img.emoji {
