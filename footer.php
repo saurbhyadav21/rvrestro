@@ -107,7 +107,7 @@
     {"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/wp-content\/uploads\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/porto\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
 </script>
 
-<div class="joinchat joinchat--right" data-settings='{"telephone":"919667790783","mobile_only":false,"button_delay":3,"whatsapp_web":false,"qr":false,"message_views":2,"message_delay":-10,"message_badge":false,"message_send":"Hi *{AMBROSIA PALACE}*! I need more info about {AMBROSIA} {www.ambrosiapalace.com}","message_hash":"356f8427"}'>
+<!-- <div class="joinchat joinchat--right" data-settings='{"telephone":"919667790783","mobile_only":false,"button_delay":3,"whatsapp_web":false,"qr":false,"message_views":2,"message_delay":-10,"message_badge":false,"message_send":"Hi *{AMBROSIA PALACE}*! I need more info about {AMBROSIA} {www.ambrosiapalace.com}","message_hash":"356f8427"}'>
     <div class="joinchat__button">
         <div class="joinchat__button__open"></div>
         <div class="joinchat__button__sendtext">Open chat</div>
@@ -145,7 +145,7 @@
             </clipPath>
         </defs>
     </svg>
-</div>
+</div> -->
 <script type='text/javascript'>
     const lazyloadRunObserver = () => {
         const lazyloadBackgrounds = document.querySelectorAll(`.e-con.e-parent:not(.e-lazyloaded)`);
