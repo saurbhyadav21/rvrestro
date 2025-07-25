@@ -1,14 +1,9 @@
 <?php
-$serverName = $_SERVER['SERVER_NAME'];
-
-if ($serverName === 'localhost' || $serverName === '127.0.0.1') {
-    // Local environment
-    $baseUrl = 'http://localhost/rvrestro';
-} else {
-    // Live environment (change this to your live domain path)
-    $baseUrl = 'https://rvrestro.com/rvrestro';
-}
+$protocol = (!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] !== 'off') ? 'https' : 'http';
+$host = $_SERVER['HTTP_HOST']; // e.g., localhost or yourdomain.com
+$baseUrl = $protocol . '://' . $host . '/rvrestro';
 ?>
+
 
 
 <!DOCTYPE html>
