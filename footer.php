@@ -37,9 +37,9 @@
                             <h3 class="widget-title">Quick Links</h3>
                             <div class="menu-main-container">
                                 <ul id="menu-main" class="menu">
-                                    <li id="menu-item-524" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-524"><a href="https://ambrosiapalace.com/our-gallery/"style="color: #ffffff;">Our Gallery</a></li>
-                                    <li id="menu-item-525" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-525"><a href="https://ambrosiapalace.com/contact-us/"style="color: #ffffff;">Contact Us</a></li>
-                                    <li id="menu-item-526" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-526"><a href="https://ambrosiapalace.com/about-us/"style="color: #ffffff;">About Us</a></li>
+                                    <li id="menu-item-524" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-524"><a href="our-gallery"style="color: #ffffff;">Our Gallery</a></li>
+                                    <li id="menu-item-525" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-525"><a href="contact-us"style="color: #ffffff;">Contact Us</a></li>
+                                    <li id="menu-item-526" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-526"><a href="about-us"style="color: #ffffff;">About Us</a></li>
                                     <li id="menu-item-616" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-616"><a href="#"style="color: #ffffff;">Download</a></li>
                                 </ul>
                             </div>
@@ -50,10 +50,10 @@
                             <h3 class="widget-title">Our Services</h3>
                             <div class="menu-footer-menu-container">
                                 <ul id="menu-footer-menu" class="menu">
-                                    <li id="menu-item-520" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-520"><a href="https://ambrosiapalace.com/anniversary-party/" style="color: #ffffff;">Anniversary party</a></li>
-                                    <li id="menu-item-521" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-521"><a href="https://ambrosiapalace.com/birthday-party/"style="color: #ffffff;">Birthday Party</a></li>
-                                    <li id="menu-item-522" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-522"><a href="https://ambrosiapalace.com/corporate-functions/"style="color: #ffffff;">Corporate Functions</a></li>
-                                    <li id="menu-item-523" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-523"><a href="https://ambrosiapalace.com/wedding-functions/"style="color: #ffffff;">Wedding Functions</a></li>
+                                    <li id="menu-item-520" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-520"><a href="anniversary-party" style="color: #ffffff;">Anniversary party</a></li>
+                                    <li id="menu-item-521" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-521"><a href="birthday-party"style="color: #ffffff;">Birthday Party</a></li>
+                                    <li id="menu-item-522" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-522"><a href="corporate-function"style="color: #ffffff;">Corporate Functions</a></li>
+                                    <li id="menu-item-523" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-523"><a href="wedding-function"style="color: #ffffff;">Wedding Functions</a></li>
                                 </ul>
                             </div>
                         </aside>

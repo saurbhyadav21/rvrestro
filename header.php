@@ -129,7 +129,7 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16
 						</div>
 						<div class="header-col header-center hidden-for-sm">
 							<ul id="menu-main-menu" class="main-menu mega-menu menu-hover-line menu-hover-underline show-arrow">
-								<li id="nav-menu-item-9" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-7 current_page_item active narrow"><a href="https://ambrosiapalace.com/" class=" current">Home</a></li>
+								<li id="nav-menu-item-9" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-7 current_page_item active narrow"><a href="index2" class=" current">Home</a></li>
 								<li id="nav-menu-item-500" class="menu-item menu-item-type-post_type menu-item-object-page narrow"><a href="about-us">About Us</a></li>
 								<li id="nav-menu-item-507" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-sub narrow"><a href="#">Our Services</a>
 									<div class="popup">
@@ -143,9 +143,9 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16
 										</div>
 									</div>
 								</li>
-								<li id="nav-menu-item-505" class="menu-item menu-item-type-post_type menu-item-object-page narrow"><a href="https://ambrosiapalace.com/our-gallery/">Our Gallery</a></li>
+								<li id="nav-menu-item-505" class="menu-item menu-item-type-post_type menu-item-object-page narrow"><a href="our-gallery">Our Gallery</a></li>
 								<li id="nav-menu-item-615" class="menu-item menu-item-type-custom menu-item-object-custom narrow"><a href="#">Blog</a></li>
-								<li id="nav-menu-item-503" class="menu-item menu-item-type-post_type menu-item-object-page narrow"><a href="https://ambrosiapalace.com/contact-us/">Contact Us</a></li>
+								<li id="nav-menu-item-503" class="menu-item menu-item-type-post_type menu-item-object-page narrow"><a href="contact-us">Contact Us</a></li>
 							</ul>
 						</div>
 						<div class="header-col header-right hidden-for-sm"><a class="mobile-toggle" href="#" aria-label="Mobile Menu"><i class="fas fa-bars"></i></a>
@@ -165,20 +165,20 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16
 							<div class="mobile-nav-wrap">
 								<div class="menu-wrap">
 									<ul id="menu-main-menu-1" class="mobile-menu accordion-menu">
-										<li id="accordion-menu-item-9" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-7 current_page_item active"><a href="https://ambrosiapalace.com/" class=" current ">Home</a></li>
-										<li id="accordion-menu-item-500" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://ambrosiapalace.com/about-us/">About Us</a></li>
+										<li id="accordion-menu-item-9" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-7 current_page_item active"><a href="index2" class=" current ">Home</a></li>
+										<li id="accordion-menu-item-500" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="about-us">About Us</a></li>
 										<li id="accordion-menu-item-507" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-sub"><a href="#">Our Services</a>
 											<span class="arrow" role="button"></span>
 											<ul class="sub-menu">
-												<li id="accordion-menu-item-506" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://ambrosiapalace.com/wedding-functions/">Wedding Functions</a></li>
-												<li id="accordion-menu-item-504" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://ambrosiapalace.com/corporate-functions/">Corporate Functions</a></li>
-												<li id="accordion-menu-item-502" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://ambrosiapalace.com/birthday-party/">Birthday Party</a></li>
-												<li id="accordion-menu-item-501" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://ambrosiapalace.com/anniversary-party/">Anniversary party</a></li>
+												<li id="accordion-menu-item-506" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="wedding-function">Wedding Functions</a></li>
+												<li id="accordion-menu-item-504" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="corporate-function">Corporate Functions</a></li>
+												<li id="accordion-menu-item-502" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="birthday-party">Birthday Party</a></li>
+												<li id="accordion-menu-item-501" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="htanniversary-party">Anniversary party</a></li>
 											</ul>
 										</li>
-										<li id="accordion-menu-item-505" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://ambrosiapalace.com/our-gallery/">Our Gallery</a></li>
+										<li id="accordion-menu-item-505" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="our-gallery">Our Gallery</a></li>
 										<li id="accordion-menu-item-615" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="#">Blog</a></li>
-										<li id="accordion-menu-item-503" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="https://ambrosiapalace.com/contact-us/">Contact Us</a></li>
+										<li id="accordion-menu-item-503" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="contact-us">Contact Us</a></li>
 									</ul>
 								</div>
 							</div>
