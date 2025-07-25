@@ -1,7 +1,18 @@
 <?php
-$protocol = (!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] !== 'off') ? 'https' : 'http';
-$host = $_SERVER['HTTP_HOST']; // e.g., localhost or yourdomain.com
-$baseUrl = $protocol . '://' . $host ;
+// $protocol = (!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] !== 'off') ? 'https' : 'http';
+// $host = $_SERVER['HTTP_HOST']; // e.g., localhost or yourdomain.com
+// $baseUrl = $protocol . '://' . $host ;
+// ?>
+<?php
+$serverName = $_SERVER['SERVER_NAME'];
+
+if ($serverName === 'localhost' || $serverName === '127.0.0.1') {
+    // Local environment
+    $baseUrl = 'http://localhost/rvrestro';
+} else {
+    // Live environment (change this to your live domain path)
+    $baseUrl = 'https://rvrestro.com/';
+}
 ?>
 
 
@@ -12,7 +23,7 @@ $baseUrl = $protocol . '://' . $host ;
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Document</title>
+	<title>Header</title>
 
 		<!-- <link rel="profile" href="https://gmpg.org/xfn/11" />
 		<link rel="pingback" href="https://ambrosiapalace.com/xmlrpc.php" />
