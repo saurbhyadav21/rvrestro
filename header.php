@@ -130,7 +130,7 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16
 						<div class="header-col header-center hidden-for-sm">
 							<ul id="menu-main-menu" class="main-menu mega-menu menu-hover-line menu-hover-underline show-arrow">
 								<li id="nav-menu-item-9" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-7 current_page_item active narrow"><a href="https://ambrosiapalace.com/" class=" current">Home</a></li>
-								<li id="nav-menu-item-500" class="menu-item menu-item-type-post_type menu-item-object-page narrow"><a href="https://ambrosiapalace.com/about-us/">About Us</a></li>
+								<li id="nav-menu-item-500" class="menu-item menu-item-type-post_type menu-item-object-page narrow"><a href="about-us">About Us</a></li>
 								<li id="nav-menu-item-507" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-sub narrow"><a href="#">Our Services</a>
 									<div class="popup">
 										<div class="inner" style="">
