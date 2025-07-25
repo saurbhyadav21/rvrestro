@@ -6,7 +6,7 @@ if ($serverName === 'localhost' || $serverName === '127.0.0.1') {
     $baseUrl = 'http://localhost/rvrestro';
 } else {
     // Live environment (change this to your live domain path)
-    $baseUrl = 'https://yourdomain.com/rvrestro';
+    $baseUrl = 'https://rvrestro.com/rvrestro';
 }
 ?>
 
