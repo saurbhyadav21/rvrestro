@@ -1,3 +1,11 @@
+<?php
+$protocol = (!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] !== 'off') ? 'https' : 'http';
+$host = $_SERVER['HTTP_HOST']; // e.g., localhost or yourdomain.com
+$baseUrl = $protocol . '://' . $host . '/rvrestro';
+?>
+
+
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -30,35 +38,34 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16
 
 
 	
-	
-	<link rel='stylesheet' id='joinchat-css' href='http://localhost/rvrestro/css/joinchat.min.css' media='all' />
-	<link rel='stylesheet' id='elementor-icons-css' href='fonts/eicons.woff2' media='all' />
-	<link rel='stylesheet' id='elementor-icons-css' href='https://ambrosiapalace.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.34.0' media='all' />
-	<link rel='stylesheet' id='elementor-frontend-css' href='http://localhost/rvrestro/css/custom-frontend.min.css' media='all' />
-	<link rel='stylesheet' id='elementor-post-6-css' href='http://localhost/rvrestro/css/post-6.css' media='all' />
-	<link rel='stylesheet' id='elementor-pro-css' href='http://localhost/rvrestro/css/custom-pro-frontend.min.css' media='all' />
-	<link rel='stylesheet' id='widget-heading-css' href='http://localhost/rvrestro/css/widget-heading.min.css' media='all' />
-	<link rel='stylesheet' id='widget-divider-css' href='http://localhost/rvrestro/css/widget-divider.min.css' media='all' />
-	<link rel='stylesheet' id='swiper-css' href='http://localhost/rvrestro/css/swiper.min.css' media='all' />
-	<link rel='stylesheet' id='e-swiper-css' href='http://localhost/rvrestro/css/e-swiper.min.css' media='all' />
-	<link rel='stylesheet' id='widget-image-carousel-css' href='http://localhost/rvrestro/css/widget-image-carousel.min.css' media='all' />
-	<link rel='stylesheet' id='widget-text-editor-css' href='http://localhost/rvrestro/css/widget-text-editor.min.css' media='all' />
-	<link rel='stylesheet' id='widget-image-css' href='http://localhost/rvrestro/css/widget-image.min.css' media='all' />
-	<link rel='stylesheet' id='widget-counter-css' href='http://localhost/rvrestro/css/widget-counter.min.css' media='all' />
-	<link rel='stylesheet' id='widget-icon-box-css' href='http://localhost/rvrestro/css/custom-widget-icon-box.min.css' media='all' />
-	<link rel='stylesheet' id='elementor-gallery-css' href='http://localhost/rvrestro/css/e-gallery.min.css' media='all' />
-	<link rel='stylesheet' id='porto-css-vars-css' href='http://localhost/rvrestro/css/theme_css_vars.css' media='all' />
-	<link rel='stylesheet' id='bootstrap-css' href='http://localhost/rvrestro/css/bootstrap.css' media='all' />
-	<link rel='stylesheet' id='porto-plugins-css' href='http://localhost/rvrestro/css/plugins.css' media='all' />
-	<link rel='stylesheet' id='porto-theme-css' href='http://localhost/rvrestro/css/theme.css' media='all' />
-	<link rel='stylesheet' id='porto-theme-portfolio-css' href='http://localhost/rvrestro/css/theme_portfolio.css' media='all' />
-	<link rel='stylesheet' id='porto-theme-member-css' href='http://localhost/rvrestro/css/theme_member.css' media='all' />
-	<link rel='stylesheet' id='porto-shortcodes-css' href='http://localhost/rvrestro/css/shortcodes.css' media='all' />
-	<link rel='stylesheet' id='porto-theme-elementor-css' href='http://localhost/rvrestro/css/theme_elementor.css' media='all' />
-	<link rel='stylesheet' id='porto-dynamic-style-css' href='http://localhost/rvrestro/css/dynamic_style.css' media='all' />
-	<link rel='stylesheet' id='porto-type-builder-css' href='http://localhost/rvrestro/css/type-builder.css' media='all' />
-	<link rel='stylesheet' id='elementor-post-7-css' href='http://localhost/rvrestro/css/post-7.css' media='all' />
-	<link rel='stylesheet' id='porto-style-css' href='http://localhost/rvrestro/css/style.css' media='all' />
+	<link rel='stylesheet' id='joinchat-css' href='<?php echo $baseUrl; ?>/css/joinchat.min.css' media='all' />
+<link rel='stylesheet' id='elementor-icons-css' href='https://ambrosiapalace.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.34.0' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css' href='<?php echo $baseUrl; ?>/css/custom-frontend.min.css' media='all' />
+<link rel='stylesheet' id='elementor-post-6-css' href='<?php echo $baseUrl; ?>/css/post-6.css' media='all' />
+<link rel='stylesheet' id='elementor-pro-css' href='<?php echo $baseUrl; ?>/css/custom-pro-frontend.min.css' media='all' />
+<link rel='stylesheet' id='widget-heading-css' href='<?php echo $baseUrl; ?>/css/widget-heading.min.css' media='all' />
+<link rel='stylesheet' id='widget-divider-css' href='<?php echo $baseUrl; ?>/css/widget-divider.min.css' media='all' />
+<link rel='stylesheet' id='swiper-css' href='<?php echo $baseUrl; ?>/css/swiper.min.css' media='all' />
+<link rel='stylesheet' id='e-swiper-css' href='<?php echo $baseUrl; ?>/css/e-swiper.min.css' media='all' />
+<link rel='stylesheet' id='widget-image-carousel-css' href='<?php echo $baseUrl; ?>/css/widget-image-carousel.min.css' media='all' />
+<link rel='stylesheet' id='widget-text-editor-css' href='<?php echo $baseUrl; ?>/css/widget-text-editor.min.css' media='all' />
+<link rel='stylesheet' id='widget-image-css' href='<?php echo $baseUrl; ?>/css/widget-image.min.css' media='all' />
+<link rel='stylesheet' id='widget-counter-css' href='<?php echo $baseUrl; ?>/css/widget-counter.min.css' media='all' />
+<link rel='stylesheet' id='widget-icon-box-css' href='<?php echo $baseUrl; ?>/css/custom-widget-icon-box.min.css' media='all' />
+<link rel='stylesheet' id='elementor-gallery-css' href='<?php echo $baseUrl; ?>/css/e-gallery.min.css' media='all' />
+<link rel='stylesheet' id='porto-css-vars-css' href='<?php echo $baseUrl; ?>/css/theme_css_vars.css' media='all' />
+<link rel='stylesheet' id='bootstrap-css' href='<?php echo $baseUrl; ?>/css/bootstrap.css' media='all' />
+<link rel='stylesheet' id='porto-plugins-css' href='<?php echo $baseUrl; ?>/css/plugins.css' media='all' />
+<link rel='stylesheet' id='porto-theme-css' href='<?php echo $baseUrl; ?>/css/theme.css' media='all' />
+<link rel='stylesheet' id='porto-theme-portfolio-css' href='<?php echo $baseUrl; ?>/css/theme_portfolio.css' media='all' />
+<link rel='stylesheet' id='porto-theme-member-css' href='<?php echo $baseUrl; ?>/css/theme_member.css' media='all' />
+<link rel='stylesheet' id='porto-shortcodes-css' href='<?php echo $baseUrl; ?>/css/shortcodes.css' media='all' />
+<link rel='stylesheet' id='porto-theme-elementor-css' href='<?php echo $baseUrl; ?>/css/theme_elementor.css' media='all' />
+<link rel='stylesheet' id='porto-dynamic-style-css' href='<?php echo $baseUrl; ?>/css/dynamic_style.css' media='all' />
+<link rel='stylesheet' id='porto-type-builder-css' href='<?php echo $baseUrl; ?>/css/type-builder.css' media='all' />
+<link rel='stylesheet' id='elementor-post-7-css' href='<?php echo $baseUrl; ?>/css/post-7.css' media='all' />
+<link rel='stylesheet' id='porto-style-css' href='<?php echo $baseUrl; ?>/css/style.css' media='all' />
+
 	<style id='wp-emoji-styles-inline-css'>
 
 	img.wp-smiley, img.emoji {
