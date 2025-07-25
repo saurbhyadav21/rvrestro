@@ -135,7 +135,7 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16
 									<div class="popup">
 										<div class="inner" style="">
 											<ul class="sub-menu porto-narrow-sub-menu">
-												<li id="nav-menu-item-506" class="menu-item menu-item-type-post_type menu-item-object-page" data-cols="1"><a href="wedding-functions">Wedding Functions</a></li>
+												<li id="nav-menu-item-506" class="menu-item menu-item-type-post_type menu-item-object-page" data-cols="1"><a href="wedding-function">Wedding Functions</a></li>
 												<li id="nav-menu-item-504" class="menu-item menu-item-type-post_type menu-item-object-page" data-cols="1"><a href="corporate-function">Corporate Functions</a></li>
 												<li id="nav-menu-item-502" class="menu-item menu-item-type-post_type menu-item-object-page" data-cols="1"><a href="birthday-party">Birthday Party</a></li>
 												<li id="nav-menu-item-501" class="menu-item menu-item-type-post_type menu-item-object-page" data-cols="1"><a href="anniversary-party">Anniversary party</a></li>
