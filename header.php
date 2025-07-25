@@ -11,7 +11,7 @@ if ($serverName === 'localhost' || $serverName === '127.0.0.1') {
     $baseUrl = 'http://localhost/rvrestro';
 } else {
     // Live environment (change this to your live domain path)
-    $baseUrl = 'https://rvrestro.com/';
+    $baseUrl = 'https://rvrestro.com';
 }
 ?>
 
@@ -23,7 +23,7 @@ if ($serverName === 'localhost' || $serverName === '127.0.0.1') {
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Header</title>
+	<title>Headerr</title>
 
 		<!-- <link rel="profile" href="https://gmpg.org/xfn/11" />
 		<link rel="pingback" href="https://ambrosiapalace.com/xmlrpc.php" />
