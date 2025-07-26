@@ -155,7 +155,8 @@ include('header.php')
                                                             <div class="elementor-widget-wrap elementor-element-populated">
                                                                 <div class="elementor-element elementor-element-bc94301 elementor-widget elementor-widget-heading" data-id="bc94301" data-element_type="widget" data-widget_type="heading.default">
                                                                     <div class="elementor-widget-container">
-                                                                        <h3 class="elementor-heading-title elementor-size-default">Who We Are</h3>
+                                                                        <h3 class="elementor-heading-title elementor-size-default">Rv Restro – The Banquet Hall
+</h3>
                                                                     </div>
                                                                 </div>
                                                                 <div class="elementor-element elementor-element-c47f641 elementor-widget-divider--view-line_icon elementor-view-default elementor-widget-divider--element-align-center elementor-widget elementor-widget-divider" data-id="c47f641" data-element_type="widget" data-widget_type="divider.default">
@@ -176,9 +177,11 @@ include('header.php')
                                                                 </div>
                                                                 <div class="elementor-element elementor-element-99139f8 elementor-widget elementor-widget-text-editor" data-id="99139f8" data-element_type="widget" data-widget_type="text-editor.default">
                                                                     <div class="elementor-widget-container">
-                                                                        Rv Restro The Banquet Hall is one of the most impressive wedding venue facilities in the city. This exuberant wedding venue has a kind of ambiance which will definitely steal your heart and intrigue you with its interiors and exteriors. This is an incredibly tastefully designed wedding venue destination for organizing your wedding ceremonies. This stunning wedding venue would ensure that your wedding celebrations would be the talk of the town.</p>
+                                                                        Rv Restro – The Banquet Hall stands as one of the city’s most captivating wedding and event venues. With its elegant interiors and striking exteriors, it offers a truly enchanting ambiance that captures the heart. Thoughtfully and tastefully designed, it serves as the perfect destination to host your wedding ceremonies and celebrations in style.
 
-                                                                        &#8220;The very First Duplex, Royal, Elegant Banquet Hall opens up as your perfect destination for all kinds of parties and weddings&#8221; </div>
+                                                                        </p>
+
+                                                                        &#8220;Introducing the city’s very first duplex-style, royal, and elegant banquet hall – your ideal venue for weddings, receptions, and all kinds of special occasions&#8221; </div>
                                                                 </div>
                                                                 <div class="elementor-element elementor-element-e7d15d2 elementor-widget elementor-widget-button" data-id="e7d15d2" data-element_type="widget" data-widget_type="button.default">
                                                                     <div class="elementor-widget-container">
@@ -215,7 +218,7 @@ include('header.php')
                                                                 <div class="elementor-element elementor-element-0ccd133 elementor-widget elementor-widget-counter" data-id="0ccd133" data-element_type="widget" data-widget_type="counter.default">
                                                                     <div class="elementor-widget-container">
                                                                         <div class="elementor-counter">
-                                                                            <div class="elementor-counter-title">STAFF MEMBERS</div>
+                                                                            <div class="elementor-counter-title">DEDICATED STAFF MEMBERS</div>
                                                                             <div class="elementor-counter-number-wrapper">
                                                                                 <span class="elementor-counter-number-prefix"></span>
                                                                                 <span class="elementor-counter-number" data-duration="2000" data-to-value="50" data-from-value="0" data-delimiter=",">0</span>
@@ -231,7 +234,7 @@ include('header.php')
                                                                 <div class="elementor-element elementor-element-ca19d65 elementor-widget elementor-widget-counter" data-id="ca19d65" data-element_type="widget" data-widget_type="counter.default">
                                                                     <div class="elementor-widget-container">
                                                                         <div class="elementor-counter">
-                                                                            <div class="elementor-counter-title">SATISFIED CLIENTS</div>
+                                                                            <div class="elementor-counter-title">HAPPY & SATISFIED CLIENTS</div>
                                                                             <div class="elementor-counter-number-wrapper">
                                                                                 <span class="elementor-counter-number-prefix"></span>
                                                                                 <span class="elementor-counter-number" data-duration="2000" data-to-value="8" data-from-value="0" data-delimiter=",">0</span>
@@ -248,7 +251,7 @@ include('header.php')
                                                                 <div class="elementor-element elementor-element-22e233a elementor-widget elementor-widget-counter" data-id="22e233a" data-element_type="widget" data-widget_type="counter.default">
                                                                     <div class="elementor-widget-container">
                                                                         <div class="elementor-counter">
-                                                                            <div class="elementor-counter-title">WEDDINGS PLANNED</div>
+                                                                            <div class="elementor-counter-title">WEDDINGS BEAUTIFULLY PLANNED</div>
                                                                             <div class="elementor-counter-number-wrapper">
                                                                                 <span class="elementor-counter-number-prefix"></span>
                                                                                 <span class="elementor-counter-number" data-duration="2000" data-to-value="5" data-from-value="0" data-delimiter=",">0</span>
@@ -264,7 +267,7 @@ include('header.php')
                                                                 <div class="elementor-element elementor-element-cc1da94 elementor-widget elementor-widget-counter" data-id="cc1da94" data-element_type="widget" data-widget_type="counter.default">
                                                                     <div class="elementor-widget-container">
                                                                         <div class="elementor-counter">
-                                                                            <div class="elementor-counter-title">GOOD QUALITY</div>
+                                                                            <div class="elementor-counter-title">COMMITMENT TO QUALITY</div>
                                                                             <div class="elementor-counter-number-wrapper">
                                                                                 <span class="elementor-counter-number-prefix"></span>
                                                                                 <span class="elementor-counter-number" data-duration="2000" data-to-value="100" data-from-value="0" data-delimiter=",">0</span>
@@ -329,7 +332,7 @@ include('header.php')
                                                                                 </h3>
 
                                                                                 <p class="elementor-icon-box-description">
-                                                                                    We have the largest and biggest banquet halls in Delhi with space up to 90,000 sq. ft. </p>
+                                                                                    Our venue boasts some of the largest banquet halls in Delhi, covering up to 90,000 sq. ft. of space. </p>
 
                                                                             </div>
 
@@ -353,11 +356,12 @@ include('header.php')
 
                                                                                 <h3 class="elementor-icon-box-title">
                                                                                     <span>
-                                                                                        Pure Vegetarian </span>
+                                                                                        
+Pure Vegetarian Delights </span>
                                                                                 </h3>
 
                                                                                 <p class="elementor-icon-box-description">
-                                                                                    We serve pure vegetarian food using top-quality ingredients. </p>
+                                                                                    We proudly serve pure vegetarian cuisine, prepared with the highest quality ingredients to ensure taste and freshness. </p>
 
                                                                             </div>
 
@@ -380,11 +384,11 @@ include('header.php')
 
                                                                                 <h3 class="elementor-icon-box-title">
                                                                                     <span>
-                                                                                        Ample Parking Space </span>
+                                                                                        Ample Parking with Valet Service </span>
                                                                                 </h3>
 
                                                                                 <p class="elementor-icon-box-description">
-                                                                                    We provide free valet parking with ample parking space available on the property itself. </p>
+                                                                                    Enjoy hassle-free parking with ample space and complimentary valet service on-site. </p>
 
                                                                             </div>
 
@@ -413,11 +417,11 @@ include('header.php')
 
                                                                                 <h3 class="elementor-icon-box-title">
                                                                                     <span>
-                                                                                        Multi Cuisine Dishes </span>
+                                                                                        Multi-Cuisine Excellence </span>
                                                                                 </h3>
 
                                                                                 <p class="elementor-icon-box-description">
-                                                                                    Our specialized kitchen team is capable enough to prepare dishes from any part of the world. </p>
+                                                                                   Our expert culinary team can craft dishes from a wide range of international cuisines, tailored to your preferences. </p>
 
                                                                             </div>
 
@@ -441,11 +445,11 @@ include('header.php')
 
                                                                                 <h3 class="elementor-icon-box-title">
                                                                                     <span>
-                                                                                        Professional Service Staff </span>
+                                                                                        Trained & Professional Staff </span>
                                                                                 </h3>
 
                                                                                 <p class="elementor-icon-box-description">
-                                                                                    We have professional and trained service staff to cater to your needs. </p>
+                                                                                    Our well-trained service staff ensures seamless hospitality and personalized service throughout your event. </p>
 
                                                                             </div>
 
@@ -469,11 +473,11 @@ include('header.php')
 
                                                                                 <h3 class="elementor-icon-box-title">
                                                                                     <span>
-                                                                                        Capacity Upto Persons </span>
+                                                                                        Accommodates Up to 2000 Guests </span>
                                                                                 </h3>
 
                                                                                 <p class="elementor-icon-box-description">
-                                                                                    We can accommodate gatherings up to 2000 persons in a single hall thereby making us the largest banquet hall in delhi. </p>
+                                                                                    With the capacity to host up to 2000 guests in a single hall, Rv Restro stands as one of the largest banquet venues in Delhi. </p>
 
                                                                             </div>
 
@@ -792,13 +796,16 @@ include('header.php')
                                                                         <div class="elementor-testimonial">
                                                                             <div class="elementor-testimonial__content">
                                                                                 <div class="elementor-testimonial__text">
-                                                                                    One of the elite and classy banquet in the region with real roses decoration and multi-floor party arrangement options. They are professional and up standard in their forte. Even the catering services are very appreciated as the quality of snacks, main course, desserts and mocktails were outstanding and the waiters and bartender were at service till very late hours for satisfaction of guests. </div>
+                                                                                    One of the most elegant and upscale banquet halls in the region! The 
+                                                                                    real rose decorations and multi-floor party arrangements were simply breathtaking.
+                                                                                     Their team maintained a high level of professionalism throughout. 
+                                                                                </div>
                                                                             </div>
                                                                             <div class="elementor-testimonial__footer">
                                                                                 <div class="elementor-testimonial__image">
                                                                                     <img decoding="async" src="https://ambrosiapalace.com/wp-content/uploads/2023/09/d-profile.png" alt="Debraj Ray">
                                                                                 </div>
-                                                                                <cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Debraj Ray</span><span class="elementor-testimonial__title">CLIENT</span></cite>
+                                                                                <cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Neha S.</span><span class="elementor-testimonial__title">Event Planner</span></cite>
                                                                             </div>
                                                                         </div>
                                                                     </div>
@@ -806,13 +813,15 @@ include('header.php')
                                                                         <div class="elementor-testimonial">
                                                                             <div class="elementor-testimonial__content">
                                                                                 <div class="elementor-testimonial__text">
-                                                                                    Very good experience...I had my daughter's second birthday celebrated here... very nice ambience and decoration...good service by all the waiters ..wide variety of food both in snacks and main course...and that too every dish was very delicious..wallet parking was available...and last but not the least thanks to Mr Bhagat for all the arrangements that made the occasion very very special... </div>
+                                                                                    From décor to service, everything was top-notch. The catering was a highlight—snacks, main course, desserts, and mocktails were all delicious.
+                                                                                        Guests were full of praise, and the staff stayed attentive till the very end. 
+                                                                                    </div>
                                                                             </div>
                                                                             <div class="elementor-testimonial__footer">
                                                                                 <div class="elementor-testimonial__image">
                                                                                     <img decoding="async" src="https://ambrosiapalace.com/wp-content/uploads/2023/09/d-profile.png" alt="Sagari Gupta">
                                                                                 </div>
-                                                                                <cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Sagari Gupta</span><span class="elementor-testimonial__title">CLIENT</span></cite>
+                                                                                <cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Rahul M.</span><span class="elementor-testimonial__title">Groom</span></cite>
                                                                             </div>
                                                                         </div>
                                                                     </div>
@@ -820,13 +829,15 @@ include('header.php')
                                                                         <div class="elementor-testimonial">
                                                                             <div class="elementor-testimonial__content">
                                                                                 <div class="elementor-testimonial__text">
-                                                                                    Very beautiful decorated from inside, it is very expensive for middle class family means it may be out of budget so confirm all paid service charge before booking, situated on narrow road so there may be a problem for parking as well as for smooth movement, it is ideal for about 150-200 gathering, situated opposite Dabur factory. </div>
+                                                                                    Rv Restro exceeded all expectations. The ambiance was classy, and their service was flawless.
+                                                                                     The bartenders and waitstaff ensured every guest felt special, even during late hours.
+                                                                                     </div>
                                                                             </div>
                                                                             <div class="elementor-testimonial__footer">
                                                                                 <div class="elementor-testimonial__image">
                                                                                     <img decoding="async" src="https://ambrosiapalace.com/wp-content/uploads/2023/09/d-profile.png" alt="Birjesh Kumar Kain">
                                                                                 </div>
-                                                                                <cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Birjesh Kumar Kain</span><span class="elementor-testimonial__title">CLIENT</span></cite>
+                                                                                <cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Simran K. </span><span class="elementor-testimonial__title">Wedding Guest</span></cite>
                                                                             </div>
                                                                         </div>
                                                                     </div>
@@ -834,13 +845,13 @@ include('header.php')
                                                                         <div class="elementor-testimonial">
                                                                             <div class="elementor-testimonial__content">
                                                                                 <div class="elementor-testimonial__text">
-                                                                                    This review is based on single visit and I have not actually been to any function here. The place is spacious, grand and beautiful. The staff is courteous and professional. They have three halls, two of them are completely covered and the then there is on the terrace which has covered dining area. The whole place is tastefully decorated. I went there to book it for my brother's engagement. </div>
+                                                                                   A truly elite venue with thoughtful details at every corner. The food was exceptional, and the service team went above and beyond. Highly recommended for anyone looking to host a memorable celebration. </div>
                                                                             </div>
                                                                             <div class="elementor-testimonial__footer">
                                                                                 <div class="elementor-testimonial__image">
                                                                                     <img decoding="async" src="https://ambrosiapalace.com/wp-content/uploads/2023/09/d-profile.png" alt="Manik Sarojwal">
                                                                                 </div>
-                                                                                <cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Manik Sarojwal</span><span class="elementor-testimonial__title">CLIENT</span></cite>
+                                                                                <cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Vikram T.</span><span class="elementor-testimonial__title"> Host</span></cite>
                                                                             </div>
                                                                         </div>
                                                                     </div>

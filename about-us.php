@@ -27,7 +27,7 @@ include('header.php')
 
                     <article class="post-7 page type-page status-publish hentry">
 
-                        <h2 class="entry-title" style="display: none;">Home</h2><span class="vcard" style="display: none;"><span class="fn"><a href="https://ambrosiapalace.com/author/rule/" title="Posts by Rule" rel="author">Rule</a></span></span><span class="updated" style="display:none">2024-07-24T08:14:00+00:00</span>
+                        <h2 class="entry-title" style="display: none;">About Us</h2><span class="vcard" style="display: none;"><span class="fn"><a href="https://ambrosiapalace.com/author/rule/" title="Posts by Rule" rel="author">Rule</a></span></span><span class="updated" style="display:none">2024-07-24T08:14:00+00:00</span>
                         <div class="page-content">
 
                             <div data-elementor-type="wp-page" data-elementor-id="7" class="elementor elementor-7" data-elementor-post-type="page">

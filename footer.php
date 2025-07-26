@@ -15,10 +15,10 @@
                 <div class="row">
                     <div class="col-lg-3">
                         <aside id="custom_html-2" class="widget_text widget widget_custom_html">
-                            <h3 class="widget-title">POOJA BANQUET LLP</h3>
+                            <h3 class="widget-title">Reach Out To Us</h3>
                             <div class="textwidget custom-html-widget">
                                 <p style="text-align:justify">
-                                    “The very First Duplex, Royal, Elegant Banquet Hall opens up as your perfect destination for all kinds of parties and weddings”
+                                    “Experience Unmatched Hospitality at Its Finest Connect with us today and let Rv Restro turn your special moments into unforgettable celebrations with world-class service, elegant spaces, and heartfelt hospitality.”
                                 </p>
                             </div>
                         </aside>
@@ -226,6 +226,8 @@
     }
 </style>
 <script src="//ambrosiapalace.com/wp-content/plugins/revslider/sr6/assets/js/rbtools.min.js?ver=6.7.15" defer async id="tp-tools-js"></script>
+<!-- <script src="<?php echo $baseUrl; ?>/js/rbtools.min.js?ver=6.7.15" defer async id="tp-tools-js"></script> -->
+
 <script src="//ambrosiapalace.com/wp-content/plugins/revslider/sr6/assets/js/rs6.min.js?ver=6.7.15" defer async id="revmin-js"></script>
 <script id="porto-live-search-js-extra">
     var porto_live_search = {

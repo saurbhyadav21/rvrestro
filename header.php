@@ -121,7 +121,7 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16
 					<div class="header-row container">
 						<div class="header-col header-left p-0">
 							<div class="logo p-0">
-								<a href="https://ambrosiapalace.com/" title="Banquet Hall - " rel="home">
+								<a href="index2" title="Banquet Hall - " rel="home">
 									<img class="img-responsive sticky-logo sticky-retina-logo" src="./images/logo.jpg" width="60%" alt="Banquet Hall" />
 									<img class="img-responsive standard-logo retina-logo" width="50%" height="106" src="./images/logo.jpg" alt="Banquet Hall" /> 
 								</a>

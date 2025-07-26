@@ -66,7 +66,7 @@ include('header.php')
                                                 </div>
                                                 <div class="elementor-element elementor-element-a8fe1e0 elementor-button-align-stretch elementor-widget elementor-widget-form" data-id="a8fe1e0" data-element_type="widget" data-settings="{&quot;step_next_label&quot;:&quot;Next&quot;,&quot;step_previous_label&quot;:&quot;Previous&quot;,&quot;button_width&quot;:&quot;100&quot;,&quot;step_type&quot;:&quot;number_text&quot;,&quot;step_icon_shape&quot;:&quot;circle&quot;}" data-widget_type="form.default">
                                                     <div class="elementor-widget-container">
-                                                        <form class="elementor-form" method="post" name="New Form">
+                                                        <form class="elementor-form" method="post" action="send_mail.php" name="New Form">
                                                             <input type="hidden" name="post_id" value="7" />
                                                             <input type="hidden" name="form_id" value="a8fe1e0" />
                                                             <input type="hidden" name="referer_title" value="" />
