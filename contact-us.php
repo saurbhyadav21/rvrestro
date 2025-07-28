@@ -52,9 +52,10 @@ include('header.php')
                                         <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-b3758ec" data-id="b3758ec" data-element_type="column">
                                             <div class="elementor-widget-wrap elementor-element-populated">
                                                 <div class="elementor-element elementor-element-7b4e006 elementor-widget elementor-widget-html" data-id="7b4e006" data-element_type="widget" data-widget_type="html.default">
-                                                    <!-- <div class="elementor-widget-container">
-                                                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d224137.38226186132!2d77.03282425570117!3d28.625368119723554!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cfb2a97d74a05%3A0xc904b013aec79759!2sAmbrosia%20Palace%2CThe%20Banquet%20Hall%20-%20Best%20Banquets%20In%20Vaishali%2C%20Indirapuram%2C%20Vasundhara%2C%20Ghaziabad!5e0!3m2!1sen!2sin!4v1695147823985!5m2!1sen!2sin" width="600" height="650" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-                                                    </div> -->
+                                                    <div class="elementor-widget-container">
+<img src="images/map2.jpg" width="600" height="650" style="border:0;" alt="">
+                                                        
+                                                    </div>
                                                 </div>
                                             </div>
                                         </div>

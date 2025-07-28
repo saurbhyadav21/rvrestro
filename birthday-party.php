@@ -85,9 +85,9 @@ include('header.php')
                                             <div class="elementor-widget-wrap elementor-element-populated">
                                                 <!-- Heading -->
                                                 <div class="elementor-element elementor-element-d826ff3 elementor-widget elementor-widget-heading" data-id="d826ff3" data-element_type="widget" data-widget_type="heading.default">
-                                                    <div class="elementor-widget-container" style="text-align: center; color: black;">
+                                                    <!-- <div class="elementor-widget-container" style="text-align: center; color: black;">
                                                         <h3 class="elementor-heading-title elementor-size-default " style="color: #FAD678;">Rv Restro</h3>
-                                                    </div>
+                                                    </div> -->
                                                 </div>
 
                                                 <!-- Divider -->
