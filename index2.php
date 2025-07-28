@@ -2,6 +2,57 @@
 include('header.php')
 
 ?>
+
+<style>
+    .elementor-7 .elementor-element.elementor-element-d033238 > .elementor-element-populated
+
+ {
+    border-style: solid;
+    border-width: 0px 1px 0px 0px;
+    border-color: #FFFFFF;
+    margin: 0;
+    text-align: center;
+    --e-column-margin-right: 4%;
+    --e-column-margin-left: 4%;
+}
+.elementor-7 .elementor-element.elementor-element-8550867 > .elementor-element-populated
+
+ {
+    border-style: solid;
+    border-width: 0px 1px 0px 0px;
+    border-color: #FFFFFF;
+       margin: 0;
+    text-align: center;
+    --e-column-margin-right: 4%;
+    --e-column-margin-left: 4%;
+}
+
+.elementor-7 .elementor-element.elementor-element-d403ccf > .elementor-element-populated {
+    border-style: solid;
+    border-width: 0px 1px 0px 0px;
+    border-color: #FFFFFF;
+           margin: 0;
+    text-align: center;
+    --e-column-margin-right: 4%;
+    --e-column-margin-left: 4%;
+}
+.elementor-7 .elementor-element.elementor-element-1061ef4 > .elementor-element-populated {
+    margin: 0;
+    text-align: center;
+    --e-column-margin-right: 4%;
+    --e-column-margin-left: 4%;
+}
+.elementor-field-group .elementor-field-textual {
+    background-color: transparent;
+    border: 1px solid #69727d;
+    color: #ffff;
+    flex-grow: 1;
+    max-width: 100%;
+    vertical-align: middle;
+    width: 100%
+}
+</style>
+
 <div class="banner-container">
     <div id="banner-wrapper" class="">
 
@@ -63,9 +114,9 @@ include('header.php')
                                         <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-57c6dc8" data-id="57c6dc8" data-element_type="column">
                                             <div class="elementor-widget-wrap elementor-element-populated">
                                                 <div class="elementor-element elementor-element-fe9f8c1 elementor-widget elementor-widget-heading" data-id="fe9f8c1" data-element_type="widget" data-widget_type="heading.default">
-                                                    <div class="elementor-widget-container">
-                                                        <h3 class="elementor-heading-title elementor-size-default">Occasion</h3>
-                                                    </div>
+                                                    <!-- <div class="elementor-widget-container"> -->
+                                                        <!-- <h3 class="elementor-heading-title elementor-size-default">Occasion</h3> -->
+                                                    <!-- </div> -->
                                                 </div>
                                                 <div class="elementor-element elementor-element-504fb2b elementor-widget-divider--view-line_icon elementor-view-default elementor-widget-divider--element-align-center elementor-widget elementor-widget-divider" data-id="504fb2b" data-element_type="widget" data-widget_type="divider.default">
                                                     <div class="elementor-widget-container">
@@ -154,10 +205,10 @@ include('header.php')
                                                         <div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-e2b2c95" data-id="e2b2c95" data-element_type="column">
                                                             <div class="elementor-widget-wrap elementor-element-populated">
                                                                 <div class="elementor-element elementor-element-bc94301 elementor-widget elementor-widget-heading" data-id="bc94301" data-element_type="widget" data-widget_type="heading.default">
-                                                                    <div class="elementor-widget-container">
+                                                                    <!-- <div class="elementor-widget-container">
                                                                         <h3 class="elementor-heading-title elementor-size-default">Rv Restro – The Banquet Hall
 </h3>
-                                                                    </div>
+                                                                    </div> -->
                                                                 </div>
                                                                 <div class="elementor-element elementor-element-c47f641 elementor-widget-divider--view-line_icon elementor-view-default elementor-widget-divider--element-align-center elementor-widget elementor-widget-divider" data-id="c47f641" data-element_type="widget" data-widget_type="divider.default">
                                                                     <div class="elementor-widget-container">
@@ -290,9 +341,9 @@ include('header.php')
                                         <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5e2a458" data-id="5e2a458" data-element_type="column">
                                             <div class="elementor-widget-wrap elementor-element-populated">
                                                 <div class="elementor-element elementor-element-fdbc2de elementor-widget elementor-widget-heading" data-id="fdbc2de" data-element_type="widget" data-widget_type="heading.default">
-                                                    <div class="elementor-widget-container">
+                                                    <!-- <div class="elementor-widget-container">
                                                         <h3 class="elementor-heading-title elementor-size-default">Our Specialised Facilities</h3>
-                                                    </div>
+                                                    </div> -->
                                                 </div>
                                                 <div class="elementor-element elementor-element-08b8946 elementor-widget-divider--view-line_icon elementor-view-default elementor-widget-divider--element-align-center elementor-widget elementor-widget-divider" data-id="08b8946" data-element_type="widget" data-widget_type="divider.default">
                                                     <div class="elementor-widget-container">
@@ -505,7 +556,7 @@ Pure Vegetarian Delights </span>
                                                             <div class="elementor-widget-wrap elementor-element-populated">
                                                                 <div class="elementor-element elementor-element-581a4e3 elementor-widget elementor-widget-heading" data-id="581a4e3" data-element_type="widget" data-widget_type="heading.default">
                                                                     <div class="elementor-widget-container">
-                                                                        <h2 class="elementor-heading-title elementor-size-default">We are now in Vaishali, Ghaziabad</h2>
+                                                                        <h2 class="elementor-heading-title elementor-size-default">We are now in xxx, xxx</h2>
                                                                     </div>
                                                                 </div>
                                                                 <div class="elementor-element elementor-element-62c216e elementor-widget elementor-widget-heading" data-id="62c216e" data-element_type="widget" data-widget_type="heading.default">
@@ -670,9 +721,9 @@ Pure Vegetarian Delights </span>
                                         <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-0d08585" data-id="0d08585" data-element_type="column">
                                             <div class="elementor-widget-wrap elementor-element-populated">
                                                 <div class="elementor-element elementor-element-ddda44d elementor-widget elementor-widget-heading" data-id="ddda44d" data-element_type="widget" data-widget_type="heading.default">
-                                                    <div class="elementor-widget-container">
+                                                    <!-- <div class="elementor-widget-container">
                                                         <h3 class="elementor-heading-title elementor-size-default">Our Gallery</h3>
-                                                    </div>
+                                                    </div> -->
                                                 </div>
                                                 <div class="elementor-element elementor-element-c0088ce elementor-widget-divider--view-line_icon elementor-view-default elementor-widget-divider--element-align-center elementor-widget elementor-widget-divider" data-id="c0088ce" data-element_type="widget" data-widget_type="divider.default">
                                                     <div class="elementor-widget-container">
@@ -871,9 +922,9 @@ Pure Vegetarian Delights </span>
                                         <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-b3758ec" data-id="b3758ec" data-element_type="column">
                                             <div class="elementor-widget-wrap elementor-element-populated">
                                                 <div class="elementor-element elementor-element-7b4e006 elementor-widget elementor-widget-html" data-id="7b4e006" data-element_type="widget" data-widget_type="html.default">
-                                                    <div class="elementor-widget-container">
+                                                    <!-- <div class="elementor-widget-container">
                                                         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d224137.38226186132!2d77.03282425570117!3d28.625368119723554!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cfb2a97d74a05%3A0xc904b013aec79759!2sAmbrosia%20Palace%2CThe%20Banquet%20Hall%20-%20Best%20Banquets%20In%20Vaishali%2C%20Indirapuram%2C%20Vasundhara%2C%20Ghaziabad!5e0!3m2!1sen!2sin!4v1695147823985!5m2!1sen!2sin" width="600" height="650" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-                                                    </div>
+                                                    </div> -->
                                                 </div>
                                             </div>
                                         </div>
@@ -897,7 +948,7 @@ Pure Vegetarian Delights </span>
                                                 </div>
                                                 <div class="elementor-element elementor-element-a8fe1e0 elementor-button-align-stretch elementor-widget elementor-widget-form" data-id="a8fe1e0" data-element_type="widget" data-settings="{&quot;step_next_label&quot;:&quot;Next&quot;,&quot;step_previous_label&quot;:&quot;Previous&quot;,&quot;button_width&quot;:&quot;100&quot;,&quot;step_type&quot;:&quot;number_text&quot;,&quot;step_icon_shape&quot;:&quot;circle&quot;}" data-widget_type="form.default">
                                                     <div class="elementor-widget-container">
-                                                        <form class="elementor-form" method="post" name="New Form">
+                                                        <form class="elementor-form1" method="post" name="New Form">
                                                             <input type="hidden" name="post_id" value="7" />
                                                             <input type="hidden" name="form_id" value="a8fe1e0" />
                                                             <input type="hidden" name="referer_title" value="" />

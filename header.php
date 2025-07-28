@@ -23,7 +23,7 @@ if ($serverName === 'localhost' || $serverName === '127.0.0.1') {
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Headerr</title>
+	<title>Rv Restro</title>
 
 		<!-- <link rel="profile" href="https://gmpg.org/xfn/11" />
 		<link rel="pingback" href="https://ambrosiapalace.com/xmlrpc.php" />
@@ -115,9 +115,9 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16
 		<div class="header-wrapper">
 
 
-			<header id="header" class="header-builder">
+			<header id="header" class="header-builder" >
 
-				<div class="header-main header-has-center header-has-not-center-sm">
+				<div class="header-main header-has-center header-has-not-center-sm"style="background-color: #000000;"	>
 					<div class="header-row container">
 						<div class="header-col header-left p-0">
 							<div class="logo p-0">
@@ -150,14 +150,14 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16
 						</div>
 						<div class="header-col header-right hidden-for-sm"><a class="mobile-toggle" href="#" aria-label="Mobile Menu"><i class="fas fa-bars"></i></a>
 							<div class="custom-html"><a href="tel:9667790783
-" class="appointment-btn">+91-9667790783</a></div>
-							<div class="share-links"> <a target="_blank" rel="nofollow noopener noreferrer" class="share-facebook" href="https://www.facebook.com/ambrosiapalace23/" title="Facebook"></a>
-								<a target="_blank" rel="nofollow noopener noreferrer" class="share-instagram" href="https://www.instagram.com/ambrosiapalace_/" title="Instagram"></a>
+" class="appointment-btn">+91-xxxxxxxxxx</a></div>
+							<div class="share-links"> <a target="_blank" rel="nofollow noopener noreferrer" class="share-facebook" href="#" title="Facebook"></a>
+								<a target="_blank" rel="nofollow noopener noreferrer" class="share-instagram" href="#" title="Instagram"></a>
 							</div>
 						</div>
 						<div class="header-col visible-for-sm header-right">
 							<div class="custom-html"><a href="tel:9667790783
-" class="appointment-btn">+91-9667790783</a></div><a class="mobile-toggle" href="#" aria-label="Mobile Menu"><i class="fas fa-bars"></i></a>
+" class="appointment-btn">+91-xxxxxxxxxx</a></div><a class="mobile-toggle" href="#" aria-label="Mobile Menu"><i class="fas fa-bars"></i></a>
 						</div>
 					</div>
 					<div id="nav-panel">

@@ -10,6 +10,46 @@ include('header.php')
         transform: translateX(-50%)
     }
 </style>
+<style>
+    .elementor-7 .elementor-element.elementor-element-d033238 > .elementor-element-populated
+
+ {
+    border-style: solid;
+    border-width: 0px 1px 0px 0px;
+    border-color: #FFFFFF;
+    margin: 0;
+    text-align: center;
+    --e-column-margin-right: 4%;
+    --e-column-margin-left: 4%;
+}
+.elementor-7 .elementor-element.elementor-element-8550867 > .elementor-element-populated
+
+ {
+    border-style: solid;
+    border-width: 0px 1px 0px 0px;
+    border-color: #FFFFFF;
+       margin: 0;
+    text-align: center;
+    --e-column-margin-right: 4%;
+    --e-column-margin-left: 4%;
+}
+
+.elementor-7 .elementor-element.elementor-element-d403ccf > .elementor-element-populated {
+    border-style: solid;
+    border-width: 0px 1px 0px 0px;
+    border-color: #FFFFFF;
+           margin: 0;
+    text-align: center;
+    --e-column-margin-right: 4%;
+    --e-column-margin-left: 4%;
+}
+.elementor-7 .elementor-element.elementor-element-1061ef4 > .elementor-element-populated {
+    margin: 0;
+    text-align: center;
+    --e-column-margin-right: 4%;
+    --e-column-margin-left: 4%;
+}
+</style>
 <section class="page-top page-header-3">
     <div class="container">
         <div class="row">
@@ -279,6 +319,7 @@ include('header.php')
                                 </section>
 
 
+                                
                                 <section class="elementor-section elementor-top-section elementor-element elementor-element-f4eaafd elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f4eaafd" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
 
                                     <div class="elementor-container elementor-column-gap-default">
@@ -287,12 +328,12 @@ include('header.php')
                                                 <section class="elementor-section elementor-inner-section elementor-element elementor-element-4207ebc elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4207ebc" data-element_type="section">
 
                                                     <div class="elementor-container elementor-column-gap-default">
-                                                        <div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-8550867" data-id="8550867" data-element_type="column">
+                                                         <div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-8550867" data-id="8550867" data-element_type="column">
                                                             <div class="elementor-widget-wrap elementor-element-populated">
                                                                 <div class="elementor-element elementor-element-0ccd133 elementor-widget elementor-widget-counter" data-id="0ccd133" data-element_type="widget" data-widget_type="counter.default">
                                                                     <div class="elementor-widget-container">
                                                                         <div class="elementor-counter">
-                                                                            <div class="elementor-counter-title">STAFF MEMBERS</div>
+                                                                            <div class="elementor-counter-title">DEDICATED STAFF MEMBERS</div>
                                                                             <div class="elementor-counter-number-wrapper">
                                                                                 <span class="elementor-counter-number-prefix"></span>
                                                                                 <span class="elementor-counter-number" data-duration="2000" data-to-value="50" data-from-value="0" data-delimiter=",">0</span>
@@ -308,7 +349,7 @@ include('header.php')
                                                                 <div class="elementor-element elementor-element-ca19d65 elementor-widget elementor-widget-counter" data-id="ca19d65" data-element_type="widget" data-widget_type="counter.default">
                                                                     <div class="elementor-widget-container">
                                                                         <div class="elementor-counter">
-                                                                            <div class="elementor-counter-title">SATISFIED CLIENTS</div>
+                                                                            <div class="elementor-counter-title">HAPPY & SATISFIED CLIENTS</div>
                                                                             <div class="elementor-counter-number-wrapper">
                                                                                 <span class="elementor-counter-number-prefix"></span>
                                                                                 <span class="elementor-counter-number" data-duration="2000" data-to-value="8" data-from-value="0" data-delimiter=",">0</span>
@@ -319,13 +360,13 @@ include('header.php')
                                                                 </div>
                                                             </div>
                                                         </div>
-
+                                                       
                                                         <div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-d033238" data-id="d033238" data-element_type="column">
                                                             <div class="elementor-widget-wrap elementor-element-populated">
                                                                 <div class="elementor-element elementor-element-22e233a elementor-widget elementor-widget-counter" data-id="22e233a" data-element_type="widget" data-widget_type="counter.default">
                                                                     <div class="elementor-widget-container">
                                                                         <div class="elementor-counter">
-                                                                            <div class="elementor-counter-title">WEDDINGS PLANNED</div>
+                                                                            <div class="elementor-counter-title">WEDDINGS BEAUTIFULLY PLANNED</div>
                                                                             <div class="elementor-counter-number-wrapper">
                                                                                 <span class="elementor-counter-number-prefix"></span>
                                                                                 <span class="elementor-counter-number" data-duration="2000" data-to-value="5" data-from-value="0" data-delimiter=",">0</span>
@@ -341,7 +382,7 @@ include('header.php')
                                                                 <div class="elementor-element elementor-element-cc1da94 elementor-widget elementor-widget-counter" data-id="cc1da94" data-element_type="widget" data-widget_type="counter.default">
                                                                     <div class="elementor-widget-container">
                                                                         <div class="elementor-counter">
-                                                                            <div class="elementor-counter-title">GOOD QUALITY</div>
+                                                                            <div class="elementor-counter-title">COMMITMENT TO QUALITY</div>
                                                                             <div class="elementor-counter-number-wrapper">
                                                                                 <span class="elementor-counter-number-prefix"></span>
                                                                                 <span class="elementor-counter-number" data-duration="2000" data-to-value="100" data-from-value="0" data-delimiter=",">0</span>
@@ -358,16 +399,15 @@ include('header.php')
                                         </div>
                                     </div>
                                 </section>
-
-                                <section class="elementor-section elementor-top-section elementor-element elementor-element-41f08af elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="41f08af" data-element_type="section">
+                                      <section class="elementor-section elementor-top-section elementor-element elementor-element-41f08af elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="41f08af" data-element_type="section">
 
                                     <div class="elementor-container elementor-column-gap-default">
                                         <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5e2a458" data-id="5e2a458" data-element_type="column">
                                             <div class="elementor-widget-wrap elementor-element-populated">
                                                 <div class="elementor-element elementor-element-fdbc2de elementor-widget elementor-widget-heading" data-id="fdbc2de" data-element_type="widget" data-widget_type="heading.default">
-                                                    <div class="elementor-widget-container">
+                                                    <!-- <div class="elementor-widget-container">
                                                         <h3 class="elementor-heading-title elementor-size-default">Our Specialised Facilities</h3>
-                                                    </div>
+                                                    </div> -->
                                                 </div>
                                                 <div class="elementor-element elementor-element-08b8946 elementor-widget-divider--view-line_icon elementor-view-default elementor-widget-divider--element-align-center elementor-widget elementor-widget-divider" data-id="08b8946" data-element_type="widget" data-widget_type="divider.default">
                                                     <div class="elementor-widget-container">
@@ -407,7 +447,7 @@ include('header.php')
                                                                                 </h3>
 
                                                                                 <p class="elementor-icon-box-description">
-                                                                                    We have the largest and biggest banquet halls in Delhi with space up to 90,000 sq. ft. </p>
+                                                                                    Our venue boasts some of the largest banquet halls in Delhi, covering up to 90,000 sq. ft. of space. </p>
 
                                                                             </div>
 
@@ -431,11 +471,12 @@ include('header.php')
 
                                                                                 <h3 class="elementor-icon-box-title">
                                                                                     <span>
-                                                                                        Pure Vegetarian </span>
+                                                                                        
+Pure Vegetarian Delights </span>
                                                                                 </h3>
 
                                                                                 <p class="elementor-icon-box-description">
-                                                                                    We serve pure vegetarian food using top-quality ingredients. </p>
+                                                                                    We proudly serve pure vegetarian cuisine, prepared with the highest quality ingredients to ensure taste and freshness. </p>
 
                                                                             </div>
 
@@ -458,11 +499,11 @@ include('header.php')
 
                                                                                 <h3 class="elementor-icon-box-title">
                                                                                     <span>
-                                                                                        Ample Parking Space </span>
+                                                                                        Ample Parking with Valet Service </span>
                                                                                 </h3>
 
                                                                                 <p class="elementor-icon-box-description">
-                                                                                    We provide free valet parking with ample parking space available on the property itself. </p>
+                                                                                    Enjoy hassle-free parking with ample space and complimentary valet service on-site. </p>
 
                                                                             </div>
 
@@ -491,11 +532,11 @@ include('header.php')
 
                                                                                 <h3 class="elementor-icon-box-title">
                                                                                     <span>
-                                                                                        Multi Cuisine Dishes </span>
+                                                                                        Multi-Cuisine Excellence </span>
                                                                                 </h3>
 
                                                                                 <p class="elementor-icon-box-description">
-                                                                                    Our specialized kitchen team is capable enough to prepare dishes from any part of the world. </p>
+                                                                                   Our expert culinary team can craft dishes from a wide range of international cuisines, tailored to your preferences. </p>
 
                                                                             </div>
 
@@ -519,11 +560,11 @@ include('header.php')
 
                                                                                 <h3 class="elementor-icon-box-title">
                                                                                     <span>
-                                                                                        Professional Service Staff </span>
+                                                                                        Trained & Professional Staff </span>
                                                                                 </h3>
 
                                                                                 <p class="elementor-icon-box-description">
-                                                                                    We have professional and trained service staff to cater to your needs. </p>
+                                                                                    Our well-trained service staff ensures seamless hospitality and personalized service throughout your event. </p>
 
                                                                             </div>
 
@@ -547,11 +588,11 @@ include('header.php')
 
                                                                                 <h3 class="elementor-icon-box-title">
                                                                                     <span>
-                                                                                        Capacity Upto Persons </span>
+                                                                                        Accommodates Up to 2000 Guests </span>
                                                                                 </h3>
 
                                                                                 <p class="elementor-icon-box-description">
-                                                                                    We can accommodate gatherings up to 2000 persons in a single hall thereby making us the largest banquet hall in delhi. </p>
+                                                                                    With the capacity to host up to 2000 guests in a single hall, Rv Restro stands as one of the largest banquet venues in Delhi. </p>
 
                                                                             </div>
 
@@ -562,6 +603,11 @@ include('header.php')
                                                         </div>
                                                     </div>
                                                 </section>
+                                            </div>
+                                        </div>
+                                    </div>
+                                                </section>
+                                               
                                             </div>
                                         </div>
                                     </div>

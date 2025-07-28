@@ -2,6 +2,18 @@
 include('header.php')
 
 ?>
+<style>
+    .elementor-field-group .elementor-field-textual {
+    background-color: transparent;
+    border: 1px solid #69727d;
+    color: #ffff;
+    flex-grow: 1;
+    max-width: 100%;
+    vertical-align: middle;
+    width: 100%;
+    }
+</style>
+
 <section class="page-top page-header-3">
     <div class="container">
         <div class="row">
@@ -40,9 +52,9 @@ include('header.php')
                                         <div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-b3758ec" data-id="b3758ec" data-element_type="column">
                                             <div class="elementor-widget-wrap elementor-element-populated">
                                                 <div class="elementor-element elementor-element-7b4e006 elementor-widget elementor-widget-html" data-id="7b4e006" data-element_type="widget" data-widget_type="html.default">
-                                                    <div class="elementor-widget-container">
+                                                    <!-- <div class="elementor-widget-container">
                                                         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d224137.38226186132!2d77.03282425570117!3d28.625368119723554!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cfb2a97d74a05%3A0xc904b013aec79759!2sAmbrosia%20Palace%2CThe%20Banquet%20Hall%20-%20Best%20Banquets%20In%20Vaishali%2C%20Indirapuram%2C%20Vasundhara%2C%20Ghaziabad!5e0!3m2!1sen!2sin!4v1695147823985!5m2!1sen!2sin" width="600" height="650" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-                                                    </div>
+                                                    </div> -->
                                                 </div>
                                             </div>
                                         </div>
@@ -66,7 +78,7 @@ include('header.php')
                                                 </div>
                                                 <div class="elementor-element elementor-element-a8fe1e0 elementor-button-align-stretch elementor-widget elementor-widget-form" data-id="a8fe1e0" data-element_type="widget" data-settings="{&quot;step_next_label&quot;:&quot;Next&quot;,&quot;step_previous_label&quot;:&quot;Previous&quot;,&quot;button_width&quot;:&quot;100&quot;,&quot;step_type&quot;:&quot;number_text&quot;,&quot;step_icon_shape&quot;:&quot;circle&quot;}" data-widget_type="form.default">
                                                     <div class="elementor-widget-container">
-                                                        <form class="elementor-form" method="post" action="send_mail.php" name="New Form">
+                                                        <form class="elementor-form1" method="post" action="send_mail.php" name="New Form">
                                                             <input type="hidden" name="post_id" value="7" />
                                                             <input type="hidden" name="form_id" value="a8fe1e0" />
                                                             <input type="hidden" name="referer_title" value="" />

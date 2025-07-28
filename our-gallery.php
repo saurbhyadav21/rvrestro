@@ -44,9 +44,9 @@ include('header.php')
                                         <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-0d08585" data-id="0d08585" data-element_type="column">
                                             <div class="elementor-widget-wrap elementor-element-populated">
                                                 <div class="elementor-element elementor-element-ddda44d elementor-widget elementor-widget-heading" data-id="ddda44d" data-element_type="widget" data-widget_type="heading.default">
-                                                    <div class="elementor-widget-container">
+                                                    <!-- <div class="elementor-widget-container">
                                                         <h3 class="elementor-heading-title elementor-size-default">Our Gallery</h3>
-                                                    </div>
+                                                    </div> -->
                                                 </div>
                                                 <div class="elementor-element elementor-element-c0088ce elementor-widget-divider--view-line_icon elementor-view-default elementor-widget-divider--element-align-center elementor-widget elementor-widget-divider" data-id="c0088ce" data-element_type="widget" data-widget_type="divider.default">
                                                     <div class="elementor-widget-container">

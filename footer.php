@@ -18,16 +18,16 @@
                             <h3 class="widget-title">Reach Out To Us</h3>
                             <div class="textwidget custom-html-widget">
                                 <p style="text-align:justify">
-                                    “Experience Unmatched Hospitality at Its Finest Connect with us today and let Rv Restro turn your special moments into unforgettable celebrations with world-class service, elegant spaces, and heartfelt hospitality.”
+                                Experience Unmatched Hospitality at Its Finest Connect with us today and let Rv Restro turn your special moments into unforgettable celebrations with world-class service, elegant spaces, and heartfelt hospitality.
                                 </p>
                             </div>
                         </aside>
                         <aside id="follow-us-widget-2" class="widget follow-us">
                             <h3 class="widget-title">Follow Us</h3>
                             <div class="share-links disable-br default-skin">
-                                <a href="https://www.facebook.com/ambrosiapalace23/" rel="nofollow noopener noreferrer" target="_blank" title="Facebook" class="share-facebook">Facebook</a>
+                                <a href="#" rel="nofollow noopener noreferrer" target="_blank" title="Facebook" class="share-facebook">Facebook</a>
                                 <a href="#" rel="nofollow noopener noreferrer" target="_blank" title="Youtube" class="share-youtube">Youtube</a>
-                                <a href="https://www.instagram.com/ambrosiapalace_/" rel="nofollow noopener noreferrer" target="_blank" title="Instagram" class="share-instagram">Instagram</a>
+                                <a href="#" rel="nofollow noopener noreferrer" target="_blank" title="Instagram" class="share-instagram">Instagram</a>
                             </div>
 
                         </aside>
@@ -63,8 +63,8 @@
                             <h3 class="widget-title">Contact Us</h3>
                             <div class="contact-info">
                                 <ul class="contact-details">
-                                    <li><i class="far fa-dot-circle"></i> <strong>Address :</strong> <span>Plot Number 3, Sector 3, Vaishali, Ghaziabad - 201001 (Opposite Cloud 9 Towers)</span></li>
-                                    <li><i class="fab fa-whatsapp"></i> <strong>Phone:</strong> <span> +91- 9667790783, 96677 90782, 96677 90781</span></li>
+                                    <li><i class="far fa-dot-circle"></i> <strong>Address :</strong> <span>xxx, xxx, xxx, Ghaziabad - 201001 (Opposite xxx)</span></li>
+                                    <li><i class="fab fa-whatsapp"></i> <strong>Phone:</strong> <span> +91- xxxxxxxxxx, xxxxxxxxxx , xxxxxxxxxx </span></li>
                                     <li><i class="far fa-envelope"></i> <strong>Email:</strong> <span ><a style="color: #ffffff;" href="mailto:RvRestro@gmail.com">RvRestro@gmail.com</a></span></li>
                                 </ul>
                             </div>
@@ -80,7 +80,7 @@
             <div class="container">
 
                 <div class="footer-center">
-                    <span class="footer-copyright">Pooja Banquet LLP. © 2022 Design by<a href="https://hovermedia.in/"> Hover Business Service LLP</a>
+                    <span class="footer-copyright">Rv Banquet LLP. © 2022 Design by<a href="#/"> xx Service LLP</a>
                     </span>
                 </div>
 
